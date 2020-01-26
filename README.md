@@ -9,7 +9,7 @@ For a more visually pleasant experience for browsing the portfolio, check out
 
 ## Preview
 
-[![Resume Preview](https://github.com/ambarishmeher/ambarish.meher/tree/master/img/my_profile_preview.JPG)](https://blackrockdigital.github.io/startbootstrap-resume/)
+[![Resume Preview](./img/my_profile_preview.JPG)](https://blackrockdigital.github.io/startbootstrap-resume/)
 
 ## Contents
 
