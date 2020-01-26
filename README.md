@@ -5,7 +5,7 @@ For a more visually pleasant experience for browsing the portfolio, check out
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
 
-**[View Live Preview](https://github.com/ambarishmeher/ambarish.meher/)**
+**[View Live Preview](https://github.com/ambarishmeher/ambarish.meher/blob/master/index.html)**
 
 ## Preview
 
