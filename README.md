@@ -53,5 +53,5 @@ For a more visually pleasant experience for browsing the portfolio, check out
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at ambarishmeher@gmail.com
 
 ## Copyright and License
-
+Created by Ambarish Meher
 Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-resume/blob/gh-pages/LICENSE) license.
