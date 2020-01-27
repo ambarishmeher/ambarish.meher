@@ -3,9 +3,7 @@ Repository containing portfolio of data science projects completed by me for aca
 
 For a more visually pleasant experience for browsing the portfolio, check out
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
-
-**[View Live Preview](https://github.com/ambarishmeher/ambarish.meher/blob/master/index.html)**
+**[View Live Preview](https://ambarishmeher.github.io/ambarish.meher/)**
 
 ## Preview
 
