@@ -3,7 +3,7 @@ Repository containing portfolio of data science projects completed by me for aca
 
 For a more visually pleasant experience for browsing the portfolio, check out
 
-**[View Live Preview](https://ambarishmeher.github.io/ambarish.meher/.)**
+**[Go to Profile](https://ambarishmeher.github.io/ambarish.meher/.)**
 
 ## Preview
 
