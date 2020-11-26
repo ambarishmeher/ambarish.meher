@@ -46,7 +46,7 @@ For a more visually pleasant experience for browsing the portfolio, check out
 	- __Tensorflow and Keras__
 		- [California Housing Price Prediction](https://github.com/ambarishmeher/data_science_portfolio/blob/master/Micro_Projects/California_housing_prices.ipynb): Using Tensorflow and  LinearRegressor interface provided by the TensorFlow Estimator API to predict the median house values.
 		
-You can reach me at: ambarishmeher@gmail.com
+You can reach me at: ambarishmeher@outlook.com
 
 ## Copyright and License
 Created by Ambarish Meher
